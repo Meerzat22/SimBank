@@ -15,6 +15,8 @@ public class JanuaryPromotions {
         System.out.println("January 123 new 123");
         System.out.println("January 123 new 123  456");
         System.out.println("January 123 new 123  456  789");
+        System.out.println("January 123 new 123  456  789  000");
+        System.out.println("January 123 new 123  456  789  000   ppp");
 
     }
 }
